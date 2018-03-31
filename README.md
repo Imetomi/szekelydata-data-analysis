@@ -1,4 +1,4 @@
-# SzékelyData Data Visualisation Contest Entry by Tamás Imets - Data Processing
+# SzékelyData Data Visualisation Contest Entry by Tamás Imets
 
 This repository contains the tools and programs I made to analyze the `data.json` dataset. I used Jupyter and Python for data processing and decoding then switched to JS, HTML, and Django for making a website that you can check out [here](http://imetomi.pythonanywhere.com). The site basically shows where the Székelys live, where were they born, where did they move, and etc. 
 

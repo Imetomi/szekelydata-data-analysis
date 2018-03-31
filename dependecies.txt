@@ -1,0 +1,10 @@
+numpy
+pandas
+pickle
+random
+datetime
+csv
+json
+unidecode
+matplotlib
+difflib
